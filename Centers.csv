@@ -1,0 +1,4 @@
+id,name_full,name_short,city,is_tiered
+vector,"ТОВ ""НВК ""ВЕКТОР""",Вектор,Київ,TRUE
+profiteh,"ТОВ ""НКЦ ""ПРОФІТЕХ""",Профітех,Київ,FALSE
+bezpeka,"ТОВ ""НЦ ""БЕЗПЕКА ПРАЦІ""",Безпека Праці,Запоріжжя,FALSE
